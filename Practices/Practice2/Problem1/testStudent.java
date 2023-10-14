@@ -1,6 +1,6 @@
 package Problem1;
 
-public class test {
+public class testStudent {
     public static void main(String[] args) {
         // Create a new student
         Student student = new Student("John Doe", 12345);
